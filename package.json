@@ -1,0 +1,24 @@
+{
+  "name": "vue-events-board",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrwsalcdo/vue-events-board.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andrwsalcdo/vue-events-board/issues"
+  },
+  "homepage": "https://github.com/andrwsalcdo/vue-events-board#readme",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "vue": "^2.3.3",
+    "vue-resource": "^1.3.1"
+  }
+}
